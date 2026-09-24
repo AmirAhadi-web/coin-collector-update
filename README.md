@@ -1,6 +1,6 @@
 # coin-collector-update
 **DEMO**
-![Image](<img width="1919" height="914" alt="Image" src="https://github.com/user-attachments/assets/43dccebc-f3c7-4db2-ab2e-c998a6ddec01" />)
+![Image](https://github.com/user-attachments/assets/43dccebc-f3c7-4db2-ab2e-c998a6ddec01)
 - [Demo Project](https://amirahadi-web.github.io/coin-collector-update/)
 - Developed by AmirMohammad Ahadi
 - Created - 2026-24-09
